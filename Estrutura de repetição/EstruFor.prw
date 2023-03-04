@@ -10,3 +10,4 @@ User Function ExemploFor()
 Alert("A soma é: "+cValToChar(nsomar))
 
 RETURN(NIL)
+  
