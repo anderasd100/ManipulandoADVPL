@@ -1,0 +1,3 @@
+Conseguimos derrubar a conexão do usuário.
+E enviar mensagens para o usuário selecionado. 
+

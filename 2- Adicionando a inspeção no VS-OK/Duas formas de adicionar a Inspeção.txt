@@ -1,0 +1,5 @@
+Existem duas formas de adiconar a Inspeção:
+
+1- Indo até a opção INSPEÇÃO do lado esquerdo, e clique no simbolo de + e adicione a expressão a ser observada.
+
+2- Clique com o botão secundário do Mouse em cima da expressão desejada e basta ir na opção Adicionar a Inspeção. 

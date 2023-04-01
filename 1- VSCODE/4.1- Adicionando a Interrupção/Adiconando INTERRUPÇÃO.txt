@@ -1,0 +1,1 @@
+Ponto de Interrupção pode ser colocado tanto pela tecla: F9 como um click do mouse ao lado esquerdo do número da instrução que queira adicionar marcar.
