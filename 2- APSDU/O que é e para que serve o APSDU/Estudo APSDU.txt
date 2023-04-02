@@ -9,6 +9,6 @@ Permite abrir as tabelas do banco do banco de dados que o protheus trabalha.
 
 
 
-Obs.:
+Obs:
 
 A tecla Tab faz o posicionamento conforme a busca da tabela solicitada
