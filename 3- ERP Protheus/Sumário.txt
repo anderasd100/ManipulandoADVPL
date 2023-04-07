@@ -1,0 +1,16 @@
+Requisitos:
+- JAVA
+
+
+Arquitetura Protheus: OK
+
+Módulo Configurador:
+
+Ambiente de desenvolvimento TDS:
+
+Linguagem ADVPL:
+
+Desenvolvimento de programas:
+
+Boas práticas de programação:
+

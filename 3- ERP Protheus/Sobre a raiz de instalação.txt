@@ -1,0 +1,20 @@
+Na raiz da instalação do Protheus:
+
+APO ---> Aonde fica o RPO, um arquivo binário aonde fica todas as funções, patch. Tudo que é compilado.
+
+Cada programa que é compilado é adicionado ao arquivo RPO, ou seja, esse arquivo tende a crescer com o tempo com novas customizações, aplicando Patch etc.
+
+BIN---> Aonde fica os arquivos executáveis, as bibliotecas, e configurações do sistema Server e do sistema Client.
+Pasta Appserver
+Pasta SmartCliente :Interface gráfica do protheus, por onde os clientes acessam.
+Monitor: Monitora os usuários que estão ativos na Base, gerenciando todos os usuáprios.
+
+Include: Aonde estão todas as bibliotecas do protheus
+
+
+Teste de conexão com a base de dados:
+dbmonitor
+
+
+Servidor Appserver:
+Bin- Appserver
